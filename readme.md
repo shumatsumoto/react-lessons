@@ -1,33 +1,58 @@
-# 環境設定
-## 使用するソフトウェア
-- Chrome - ブラウザ
-https://www.google.com/intl/ja/chrome/
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/11171872/203345580-40a14fa9-b1f0-4c29-a042-138ff78f7d9b.jpg" width="500">
+</div>
 
-- Node.js - JavaScriptの実行環境
-https://nodejs.org/ja/
+<h1 align="center">React Lessons</h1>
 
-- VSCode - コードエディタ
-https://code.visualstudio.com/
+<div align="center">
+  <a href="https://reactjs.org/">
+    <img src="https://user-images.githubusercontent.com/11171872/113251146-b6ba2b00-92fc-11eb-847a-fc58d7f87239.png" height="35">
+  </a>&nbsp;
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://user-images.githubusercontent.com/11171872/113466643-6071f700-9478-11eb-9c13-52c84abd80c7.png" height="35">
+  </a>&nbsp;
+  <a href="https://nextjs.org/">
+    <img src="https://user-images.githubusercontent.com/11171872/113247237-92a71b80-92f5-11eb-8f09-6047f4c4b441.png" height="35">
+  </a>
+</div>
 
+## :computer: URL
 
-## おすすめの拡張機能
-- Prettier - Code formatter ★  
-  `esbenp.prettier-vscode`
+...
 
-  様々な言語の整形を行ってくれる  
+## :pencil2: Overview
 
-- Live Server ★  
-  `ritwickdey.LiveServer`  
+The definitive introduction to React! Systematically and comprehensively learn about the basic knowledge you need to know about React.
 
-  簡易的なサーバーを簡単に起動することができる
+## :hammer: Requirement
 
-- Auto Rename Tag  
-  `formulahendry.auto-rename-tag`  
+- macOS
+- React 17.0.1
+- TypeScript 4.2.3
+- Material UI
+- Vercel
 
-  開始タグを編集すると、閉じタグを自動的に変更してくれる
+## :pushpin: Usage
 
-- ES7+ React/Redux/React-Native    
-  `dsznajder.es7-react-js-snippets`  
+Git clone
+```
+$ git clone https://github.com/shumatsumoto/react-lessons.git
+```
+Move to directory
+```
+$ cd react-lessons
+```
 
-  Reactのスニペット(ショートカット)を使えるようにする
+## :railway_car: Features
+
+...
+
+## :green_book: Reference
+
+- [【2022年最新】React(v18)完全入門ガイド｜Hooks、Next.js、Redux、TypeScript](https://www.udemy.com/course/react-complete-guide/)
+
+## :hatching_chick: Author
+
+- [Github](https://github.com/shumatsumoto)
+- [Qiita](https://qiita.com/ShuMatsumoto)
 
